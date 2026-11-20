@@ -1,0 +1,6 @@
+{
+  "name": "FixMate Studio — Asisten Servis HP Mínghào & Emily",
+  "description": "Platform chatbox AI double-tab ceria untuk teknisi servis HP (Mínghào) dengan skema motherboard interaktif & pengenalan foto komponen, serta asisten admin toko (Emily) pembaca nota dan pembuat chat salinan siap kirim, lengkap dengan ekspor paket PHP/HTML siap deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
